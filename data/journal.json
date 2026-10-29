@@ -6228,13 +6228,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 169,
   "prev": "da0e624f4c1786d9c675",
-  "h": "1a0f7f93fce4fbddde19"
+  "h": "1a0f7f93fce4fbddde19",
+  "tx": 1793304000000,
+  "bm": {
+   "e": 1268.71,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792742400000
+  },
+  "bi": {
+   "e": 1268.71,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792850400000
+  }
  },
  {
   "id": "2026-10-23|Aturan Eliz|WLD",
@@ -6681,13 +6694,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 187,
   "prev": "272d910334c90c2f6df2",
-  "h": "3c213a9e7186400cfc44"
+  "h": "3c213a9e7186400cfc44",
+  "tx": 1793304000000,
+  "bm": {
+   "e": 7.16,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793289600000
+  },
+  "bi": {
+   "e": 7.16,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792792800000
+  }
  },
  {
   "id": "2026-10-23|Aturan Eliz|BNB",
@@ -6711,7 +6737,19 @@
   "seq": 188,
   "prev": "3c213a9e7186400cfc44",
   "h": "7c5a50548f44f7264ead",
-  "tx": 1793181600000
+  "tx": 1793181600000,
+  "bm": {
+   "e": 738.02,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793181600000
+  },
+  "bi": {
+   "e": 738.02,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793304000000
+  }
  },
  {
   "id": "2026-10-23|Aturan Eliz|TRX",
@@ -6751,13 +6789,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 190,
   "prev": "8d0604e10f249bb46fdd",
-  "h": "6d704863eff32a17fd54"
+  "h": "6d704863eff32a17fd54",
+  "tx": 1793304000000,
+  "bm": {
+   "e": 12.165,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793304000000
+  },
+  "bi": {
+   "e": 12.165,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792832400000
+  }
  },
  {
   "id": "2026-10-23|Aturan Eliz|QNT",
@@ -7007,13 +7058,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 200,
   "prev": "78671d030e05af793cf7",
-  "h": "f7174ffb7fb187b168a2"
+  "h": "f7174ffb7fb187b168a2",
+  "tx": 1793304000000,
+  "bm": {
+   "e": 1242.73,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793034000000
+  },
+  "bi": {
+   "e": 1242.73,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792850400000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|XAUT",
@@ -7483,13 +7547,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 219,
   "prev": "0137eb27dab3c0eff5f0",
-  "h": "7c7e16d5d4bebac421c7"
+  "h": "7c7e16d5d4bebac421c7",
+  "tx": 1793304000000,
+  "bm": {
+   "e": 6.982,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793217600000
+  },
+  "bi": {
+   "e": 6.982,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792850400000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|TRX",
@@ -7959,13 +8036,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "Senin: Monday range sedang terbentuk, harga cenderung kotor. Tunggu. Monday Low/High jadi level kunci minggu ini.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 238,
   "prev": "3cffb9fe7ad14cc5ec52",
-  "h": "6383c99f47c1795a5bd7"
+  "h": "6383c99f47c1795a5bd7",
+  "tx": 1793304000000,
+  "bm": {
+   "e": 1239.7,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793034000000
+  },
+  "bi": {
+   "e": 1239.7,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793145600000
+  }
  },
  {
   "id": "2026-10-26|Aturan Eliz|LINK",
@@ -8189,13 +8279,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim",
   "alert": "Senin: Monday range sedang terbentuk, harga cenderung kotor. Tunggu. Monday Low/High jadi level kunci minggu ini.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 248,
   "prev": "8c4ab0b82bce91686fc4",
-  "h": "b85408bec5db0f03336c"
+  "h": "b85408bec5db0f03336c",
+  "tx": 1793306520000,
+  "bm": {
+   "e": 738.02,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793304000000
+  },
+  "bi": {
+   "e": 738.02,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793181600000
+  }
  },
  {
   "id": "2026-10-26|Aturan Eliz|UNI",
@@ -8212,13 +8315,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "Senin: Monday range sedang terbentuk, harga cenderung kotor. Tunggu. Monday Low/High jadi level kunci minggu ini.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 249,
   "prev": "b85408bec5db0f03336c",
-  "h": "664a42a0c5a8c145e7fa"
+  "h": "664a42a0c5a8c145e7fa",
+  "tx": 1793304000000,
+  "bm": {
+   "e": 6.879,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793160000000
+  },
+  "bi": {
+   "e": 6.879,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793304000000
+  }
  },
  {
   "id": "2026-10-26|Aturan Eliz|TRX",
@@ -8468,13 +8584,26 @@
   "keyakinan": "",
   "alasan": "Three Tap: 2 sentuhan lalu manipulasi di bawah",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 259,
   "prev": "68426495a3222fcaa882",
-  "h": "3ceb000ed75451ba0435"
+  "h": "3ceb000ed75451ba0435",
+  "tx": 1793304000000,
+  "bm": {
+   "e": 2318.98,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793304000000
+  },
+  "bi": {
+   "e": 2318.98,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793217600000
+  }
  },
  {
   "id": "2026-10-27|Aturan Eliz|SNDKB",
@@ -8583,13 +8712,26 @@
   "keyakinan": "",
   "alasan": "Three Tap: 2 sentuhan lalu manipulasi di bawah",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 264,
   "prev": "99b1748d36447d66b354",
-  "h": "b9dcf3420113ced77217"
+  "h": "b9dcf3420113ced77217",
+  "tx": 1793304060000,
+  "bm": {
+   "e": 90.85,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793174400000
+  },
+  "bi": {
+   "e": 90.85,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793106000000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|TRX",
@@ -8629,13 +8771,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, Wolf bullish: breakdown trendline gagal, Fib 0.75 tren naik, searah tren",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 266,
   "prev": "51372d9c8a55281a1526",
-  "h": "76c1f28f6a7c66d533da"
+  "h": "76c1f28f6a7c66d533da",
+  "tx": 1793306820000,
+  "bm": {
+   "e": 0.004374,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793188800000
+  },
+  "bi": {
+   "e": 0.004374,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793214000000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|NIL",
@@ -8698,13 +8853,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, OBV divergence",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 269,
   "prev": "9c10d4025a41d808c4dc",
-  "h": "745cdf6bc1aef9edd602"
+  "h": "745cdf6bc1aef9edd602",
+  "tx": 1793304000000,
+  "bm": {
+   "e": 101.64,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793304000000
+  },
+  "bi": {
+   "e": 101.64,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793304000000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|NEAR",
@@ -8721,13 +8889,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, searah tren",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 270,
   "prev": "745cdf6bc1aef9edd602",
-  "h": "b11a34b040d9a362c846"
+  "h": "b11a34b040d9a362c846",
+  "tx": 1793304000000,
+  "bm": {
+   "e": 4.706,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793235600000
+  },
+  "bi": {
+   "e": 4.706,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793253600000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|ENA",
@@ -8780,13 +8961,14 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, OBV divergence",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 272,
   "prev": "686e3463eb023d41de2a",
-  "h": "b3774de945dc7c4ca79c"
+  "h": "b3774de945dc7c4ca79c",
+  "tx": 1793304000000
  },
  {
   "id": "2026-10-28|Aturan Eliz|HAEDAL",
@@ -8846,7 +9028,19 @@
   "seq": 274,
   "prev": "6edcdd23b6c53edf55c4",
   "h": "735a587c6a7d07729be9",
-  "tx": 1793239200000
+  "tx": 1793239200000,
+  "bm": {
+   "e": 135.02,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793235600000
+  },
+  "bi": {
+   "e": 135.02,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793304000000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|HUMA",
@@ -8887,13 +9081,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 276,
   "prev": "ab3aa40e58eb41f4f0d9",
-  "h": "cadd4ba13ac0be5da4c7"
+  "h": "cadd4ba13ac0be5da4c7",
+  "tx": 1793304000000,
+  "bm": {
+   "e": 258.2,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793304000000
+  },
+  "bi": {
+   "e": 258.2,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793235600000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|LTC",
@@ -8933,13 +9140,14 @@
   "keyakinan": "",
   "alasan": "Three Tap: 2 sentuhan lalu manipulasi di bawah",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 278,
   "prev": "b1ac23c8c64a6515633b",
-  "h": "34d76d9d8e862687986c"
+  "h": "34d76d9d8e862687986c",
+  "tx": 1793304000000
  },
  {
   "id": "2026-10-28|Aturan Eliz|BNB",
@@ -8956,13 +9164,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 279,
   "prev": "34d76d9d8e862687986c",
-  "h": "0197896f139d442f5d03"
+  "h": "0197896f139d442f5d03",
+  "tx": 1793304000000,
+  "bm": {
+   "e": 745.34,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793304000000
+  },
+  "bi": {
+   "e": 745.34,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793304000000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|SNDKB",
@@ -9127,7 +9348,19 @@
   "seq": 285,
   "prev": "c9ae62a37dd2bcc6a34b",
   "h": "c1d6fe7a6b6b99590a3a",
-  "tx": 1793286000000
+  "tx": 1793286000000,
+  "bm": {
+   "e": 7.124,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793217600000
+  },
+  "bi": {
+   "e": 7.124,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793304000000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|SPCXB",
@@ -9167,13 +9400,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 287,
   "prev": "29182af662ae627d53df",
-  "h": "d94e94acb548ced943f3"
+  "h": "d94e94acb548ced943f3",
+  "tx": 1793306820000,
+  "bm": {
+   "e": 11.69,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793239200000
+  },
+  "bi": {
+   "e": 11.69,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793304000000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|FET",
@@ -9190,13 +9436,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 288,
   "prev": "d94e94acb548ced943f3",
-  "h": "f687d935eff813378fc6"
+  "h": "f687d935eff813378fc6",
+  "tx": 1793306580000,
+  "bm": {
+   "e": 0.1823,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793235600000
+  },
+  "bi": {
+   "e": 0.1823,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793217600000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|AVAX",
@@ -9213,13 +9472,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 289,
   "prev": "f687d935eff813378fc6",
-  "h": "a2dca02a735f1d865646"
+  "h": "a2dca02a735f1d865646",
+  "tx": 1793304000000,
+  "bm": {
+   "e": 9.024,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793235600000
+  },
+  "bi": {
+   "e": 9.024,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793304000000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|BANK",
