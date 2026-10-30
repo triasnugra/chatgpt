@@ -7206,13 +7206,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, OBV divergence, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 194,
   "prev": "aea760f5ea69835030f0",
-  "h": "54f46a6875f99276a0c7"
+  "h": "54f46a6875f99276a0c7",
+  "tx": 1793354400000,
+  "bm": {
+   "e": 147.12,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792854000000
+  },
+  "bi": {
+   "e": 147.12,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793019600000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|ETH",
