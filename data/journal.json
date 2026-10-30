@@ -9011,13 +9011,26 @@
   "keyakinan": "",
   "alasan": "deviasi bawah lalu recovery",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 260,
   "prev": "3ceb000ed75451ba0435",
-  "h": "f85cc271592f950944a1"
+  "h": "f85cc271592f950944a1",
+  "tx": 1793372400000,
+  "bm": {
+   "e": 1270.78,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793149200000
+  },
+  "bi": {
+   "e": 1270.78,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793116800000
+  }
  },
  {
   "id": "2026-10-27|Aturan Eliz|PUMP",
@@ -9641,13 +9654,26 @@
   "keyakinan": "",
   "alasan": "deviasi bawah lalu recovery",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 280,
   "prev": "0197896f139d442f5d03",
-  "h": "01421154c5c80452d871"
+  "h": "01421154c5c80452d871",
+  "tx": 1793372400000,
+  "bm": {
+   "e": 1345.01,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793217600000
+  },
+  "bi": {
+   "e": 1345.01,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793192400000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|XAUT",
@@ -9664,13 +9690,14 @@
   "keyakinan": "",
   "alasan": "Three Tap: 2 sentuhan lalu manipulasi di bawah",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 281,
   "prev": "01421154c5c80452d871",
-  "h": "633785272fbda48fa753"
+  "h": "633785272fbda48fa753",
+  "tx": 1793368800000
  },
  {
   "id": "2026-10-28|Aturan Eliz|PEPE",
