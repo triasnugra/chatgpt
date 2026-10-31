@@ -7160,13 +7160,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, Wolf: breakout trendline gagal, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 192,
   "prev": "ed53595fdc38a59835fc",
-  "h": "3672a75e351398032338"
+  "h": "3672a75e351398032338",
+  "tx": 1793419231609,
+  "bm": {
+   "e": 0.4809,
+   "h": "kedaluwarsa",
+   "R": 1.262,
+   "tx": 1793419231609
+  },
+  "bi": {
+   "e": 0.4809,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793239200000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|AI",
@@ -7183,13 +7196,26 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah, RSI divergence, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 193,
   "prev": "3672a75e351398032338",
-  "h": "aea760f5ea69835030f0"
+  "h": "aea760f5ea69835030f0",
+  "tx": 1793419231610,
+  "bm": {
+   "e": 0.0202,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792836000000
+  },
+  "bi": {
+   "e": 0.0202,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792850400000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|MSTRB",
@@ -7242,13 +7268,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 195,
   "prev": "54f46a6875f99276a0c7",
-  "h": "e75fcc8a2f34ae5491a6"
+  "h": "e75fcc8a2f34ae5491a6",
+  "tx": 1793419231610,
+  "bm": {
+   "e": 2384.79,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793318400000
+  },
+  "bi": {
+   "e": 2384.79,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792854000000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|NEAR",
@@ -7265,13 +7304,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, RSI divergence",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 196,
   "prev": "e75fcc8a2f34ae5491a6",
-  "h": "0c78837ba35974d6da0d"
+  "h": "0c78837ba35974d6da0d",
+  "tx": 1793419231610,
+  "bm": {
+   "e": 4.651,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793318400000
+  },
+  "bi": {
+   "e": 4.651,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792850400000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|PEPE",
@@ -7324,13 +7376,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "kedaluwarsa",
+  "R": 0.85,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 198,
   "prev": "a9a2ecc1122fd6b75387",
-  "h": "855e8096bc543e02eb34"
+  "h": "855e8096bc543e02eb34",
+  "tx": 1793419231610,
+  "bm": {
+   "e": 1.293,
+   "h": "kedaluwarsa",
+   "R": 0.505,
+   "tx": 1793419231610
+  },
+  "bi": {
+   "e": 1.293,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793318400000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|SOL",
@@ -7347,13 +7412,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 199,
   "prev": "855e8096bc543e02eb34",
-  "h": "78671d030e05af793cf7"
+  "h": "78671d030e05af793cf7",
+  "tx": 1793419231610,
+  "bm": {
+   "e": 102.75,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793304000000
+  },
+  "bi": {
+   "e": 102.75,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792854000000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|SNDKB",
@@ -7406,13 +7484,26 @@
   "keyakinan": "",
   "alasan": "breakdown ber-close, retest, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "kedaluwarsa",
+  "R": 1.48,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 201,
   "prev": "f7174ffb7fb187b168a2",
-  "h": "27b22da15c75942b3ba4"
+  "h": "27b22da15c75942b3ba4",
+  "tx": 1793419231610,
+  "bm": {
+   "e": 3995.32,
+   "h": "kedaluwarsa",
+   "R": 0.874,
+   "tx": 1793419231610
+  },
+  "bi": {
+   "e": 3995.32,
+   "h": "kedaluwarsa",
+   "R": -0.874,
+   "tx": 1793419231610
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|SUI",
@@ -7429,13 +7520,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 202,
   "prev": "27b22da15c75942b3ba4",
-  "h": "10b3b59ca47f0f3d731b"
+  "h": "10b3b59ca47f0f3d731b",
+  "tx": 1793419231610,
+  "bm": {
+   "e": 0.9648,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793304000000
+  },
+  "bi": {
+   "e": 0.9648,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792850400000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|DOGE",
@@ -7459,7 +7563,19 @@
   "seq": 203,
   "prev": "10b3b59ca47f0f3d731b",
   "h": "afc4daa18d38593d3730",
-  "tx": 1793318400000
+  "tx": 1793318400000,
+  "bm": {
+   "e": 0.07893,
+   "h": "kedaluwarsa",
+   "R": 0.825,
+   "tx": 1793419231610
+  },
+  "bi": {
+   "e": 0.07893,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792854000000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|CRCLB",
@@ -7548,13 +7664,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, Wolf: breakout trendline gagal",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "kedaluwarsa",
+  "R": 0.73,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 206,
   "prev": "b1a76d05f6b866b5b253",
-  "h": "674fc83591d3c2178837"
+  "h": "674fc83591d3c2178837",
+  "tx": 1793419231610,
+  "bm": {
+   "e": 0.004282,
+   "h": "kedaluwarsa",
+   "R": 0.266,
+   "tx": 1793419231610
+  },
+  "bi": {
+   "e": 0.004282,
+   "h": "kedaluwarsa",
+   "R": -0.266,
+   "tx": 1793419231610
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|ERA",
@@ -7607,13 +7736,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 208,
   "prev": "e500a2e322fc7931d34c",
-  "h": "06029856e318a9c7c5b3"
+  "h": "06029856e318a9c7c5b3",
+  "tx": 1793419231610,
+  "bm": {
+   "e": 57.22,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793203200000
+  },
+  "bi": {
+   "e": 57.22,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793304000000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|TAO",
@@ -7630,13 +7772,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 209,
   "prev": "06029856e318a9c7c5b3",
-  "h": "318cd8bc2712d0998d5e"
+  "h": "318cd8bc2712d0998d5e",
+  "tx": 1793419231610,
+  "bm": {
+   "e": 254.5,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793304000000
+  },
+  "bi": {
+   "e": 254.5,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792850400000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|ADA",
@@ -7653,13 +7808,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 210,
   "prev": "318cd8bc2712d0998d5e",
-  "h": "290ce0038ece48ddd9a3"
+  "h": "290ce0038ece48ddd9a3",
+  "tx": 1793419231610,
+  "bm": {
+   "e": 0.2122,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793304000000
+  },
+  "bi": {
+   "e": 0.2122,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792850400000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|ARB",
@@ -7676,13 +7844,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 211,
   "prev": "290ce0038ece48ddd9a3",
-  "h": "2298367b5a3c13c86642"
+  "h": "2298367b5a3c13c86642",
+  "tx": 1793419231610,
+  "bm": {
+   "e": 0.1722,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793217600000
+  },
+  "bi": {
+   "e": 0.1722,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792850400000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|AVAX",
@@ -7699,13 +7880,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 212,
   "prev": "2298367b5a3c13c86642",
-  "h": "a15cb86b433e8ab4beb2"
+  "h": "a15cb86b433e8ab4beb2",
+  "tx": 1793419231611,
+  "bm": {
+   "e": 9.059,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793304000000
+  },
+  "bi": {
+   "e": 9.059,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792850400000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|DOT",
@@ -7722,13 +7916,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 213,
   "prev": "a15cb86b433e8ab4beb2",
-  "h": "94a70aaa7a13dd4a08ac"
+  "h": "94a70aaa7a13dd4a08ac",
+  "tx": 1793419231611,
+  "bm": {
+   "e": 1.09,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792908000000
+  },
+  "bi": {
+   "e": 1.09,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792850400000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|AAVE",
@@ -7745,13 +7952,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, Wolf: breakout trendline gagal",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 214,
   "prev": "94a70aaa7a13dd4a08ac",
-  "h": "c8d2ba54b24ddb2c8eb5"
+  "h": "c8d2ba54b24ddb2c8eb5",
+  "tx": 1793419231611,
+  "bm": {
+   "e": 144.47,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793088000000
+  },
+  "bi": {
+   "e": 144.47,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792850400000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|HBAR",
@@ -7768,13 +7988,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 215,
   "prev": "c8d2ba54b24ddb2c8eb5",
-  "h": "410bb5e8168bde4e96d8"
+  "h": "410bb5e8168bde4e96d8",
+  "tx": 1793419231611,
+  "bm": {
+   "e": 0.07802,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793242800000
+  },
+  "bi": {
+   "e": 0.07802,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792854000000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|BCH",
@@ -7827,13 +8060,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 217,
   "prev": "85aac1d806442f3dab79",
-  "h": "695e1afa58f6c7550c42"
+  "h": "695e1afa58f6c7550c42",
+  "tx": 1793419231611,
+  "bm": {
+   "e": 81043.2,
+   "h": "kedaluwarsa",
+   "R": 1.552,
+   "tx": 1793419231611
+  },
+  "bi": {
+   "e": 81043.2,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793304000000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|SPCXB",
@@ -7850,13 +8096,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "kedaluwarsa",
+  "R": 0.9,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 218,
   "prev": "695e1afa58f6c7550c42",
-  "h": "0137eb27dab3c0eff5f0"
+  "h": "0137eb27dab3c0eff5f0",
+  "tx": 1793419231611,
+  "bm": {
+   "e": 147.98,
+   "h": "kedaluwarsa",
+   "R": 0.708,
+   "tx": 1793419231611
+  },
+  "bi": {
+   "e": 147.98,
+   "h": "kedaluwarsa",
+   "R": -0.708,
+   "tx": 1793419231611
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|UNI",
@@ -7945,13 +8204,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 221,
   "prev": "0d1cb0a5006e64ca8899",
-  "h": "e144e0459195d265b541"
+  "h": "e144e0459195d265b541",
+  "tx": 1793419231611,
+  "bm": {
+   "e": 11.883,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793314800000
+  },
+  "bi": {
+   "e": 11.883,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792854000000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|QNT",
