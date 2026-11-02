@@ -10077,7 +10077,19 @@
   "seq": 275,
   "prev": "735a587c6a7d07729be9",
   "h": "ab3aa40e58eb41f4f0d9",
-  "tx": 1793257200000
+  "tx": 1793257200000,
+  "bm": {
+   "e": 0.0257,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793253600000
+  },
+  "bi": {
+   "e": 0.0257,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793631600000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|TAO",
@@ -11273,13 +11285,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, Wolf bullish: breakdown trendline gagal, OBV divergence, RSI divergence",
   "alert": "Hari terakhir bulan. Penutupan bulanan 00:00 UTC.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 321,
   "prev": "4c379843c7f43e9cff1f",
-  "h": "9a50ce423a69fd840706"
+  "h": "9a50ce423a69fd840706",
+  "tx": 1793642400000,
+  "bm": {
+   "e": 896.84,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793635200000
+  },
+  "bi": {
+   "e": 896.84,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793642400000
+  }
  },
  {
   "id": "2026-10-31|Aturan Eliz|QQQB",
