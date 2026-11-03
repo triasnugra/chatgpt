@@ -9500,13 +9500,26 @@
   "keyakinan": "",
   "alasan": "breakdown ber-close, retest, searah tren",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "kedaluwarsa",
+  "R": 1.13,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 257,
   "prev": "f2cae92980813b632de3",
-  "h": "aaed3593a79d27ad083e"
+  "h": "aaed3593a79d27ad083e",
+  "tx": 1793677357468,
+  "bm": {
+   "e": 4022.67,
+   "h": "kedaluwarsa",
+   "R": 0.7,
+   "tx": 1793677357468
+  },
+  "bi": {
+   "e": 4022.67,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793368800000
+  }
  },
  {
   "id": "2026-10-27|Aturan Eliz|KAT",
@@ -9523,13 +9536,26 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah, searah tren",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 258,
   "prev": "aaed3593a79d27ad083e",
-  "h": "68426495a3222fcaa882"
+  "h": "68426495a3222fcaa882",
+  "tx": 1793677357468,
+  "bm": {
+   "e": 0.0045,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793095200000
+  },
+  "bi": {
+   "e": 0.0045,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793080800000
+  }
  },
  {
   "id": "2026-10-27|Aturan Eliz|ETH",
@@ -9618,13 +9644,26 @@
   "keyakinan": "",
   "alasan": "Wolf: breakout trendline gagal",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 261,
   "prev": "f85cc271592f950944a1",
-  "h": "2846ed89b3aefc50acc7"
+  "h": "2846ed89b3aefc50acc7",
+  "tx": 1793677357468,
+  "bm": {
+   "e": 0.00417,
+   "h": "kedaluwarsa",
+   "R": 0.459,
+   "tx": 1793677357468
+  },
+  "bi": {
+   "e": 0.00417,
+   "h": "kedaluwarsa",
+   "R": -0.459,
+   "tx": 1793677357468
+  }
  },
  {
   "id": "2026-10-27|Aturan Eliz|HUMA",
@@ -9641,13 +9680,26 @@
   "keyakinan": "",
   "alasan": "deviasi bawah lalu recovery",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 262,
   "prev": "2846ed89b3aefc50acc7",
-  "h": "287b753611b745bc6d63"
+  "h": "287b753611b745bc6d63",
+  "tx": 1793677357468,
+  "bm": {
+   "e": 0.02194,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793077200000
+  },
+  "bi": {
+   "e": 0.02194,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793073600000
+  }
  },
  {
   "id": "2026-10-27|Aturan Eliz|DOGE",
