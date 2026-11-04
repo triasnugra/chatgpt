@@ -9860,13 +9860,26 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah, sweep Monday High lalu reclaim, searah tren",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 267,
   "prev": "76c1f28f6a7c66d533da",
-  "h": "d164eaa58573d982dbab"
+  "h": "d164eaa58573d982dbab",
+  "tx": 1793761602755,
+  "bm": {
+   "e": 0.08505,
+   "h": "kedaluwarsa",
+   "R": 1.472,
+   "tx": 1793761602755
+  },
+  "bi": {
+   "e": 0.08505,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793304000000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|XLM",
@@ -9883,13 +9896,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, breakdown ber-close, retest, searah tren",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "kedaluwarsa",
+  "R": 1.46,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 268,
   "prev": "d164eaa58573d982dbab",
-  "h": "9c10d4025a41d808c4dc"
+  "h": "9c10d4025a41d808c4dc",
+  "tx": 1793761602755,
+  "bm": {
+   "e": 0.1718,
+   "h": "kedaluwarsa",
+   "R": 1.53,
+   "tx": 1793761602755
+  },
+  "bi": {
+   "e": 0.1718,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793304000000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|SOL",
@@ -10194,13 +10220,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "kedaluwarsa",
+  "R": 1.62,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 277,
   "prev": "cadd4ba13ac0be5da4c7",
-  "h": "b1ac23c8c64a6515633b"
+  "h": "b1ac23c8c64a6515633b",
+  "tx": 1793761602755,
+  "bm": {
+   "e": 57.47,
+   "h": "kedaluwarsa",
+   "R": 1.681,
+   "tx": 1793761602755
+  },
+  "bi": {
+   "e": 57.47,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793304000000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|ETH",
@@ -10332,7 +10371,19 @@
   "seq": 281,
   "prev": "01421154c5c80452d871",
   "h": "633785272fbda48fa753",
-  "tx": 1793368800000
+  "tx": 1793368800000,
+  "bm": {
+   "e": 4043.65,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793365200000
+  },
+  "bi": {
+   "e": 4043.65,
+   "h": "kedaluwarsa",
+   "R": 0.927,
+   "tx": 1793761602755
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|PEPE",
@@ -10493,13 +10544,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 286,
   "prev": "c1d6fe7a6b6b99590a3a",
-  "h": "29182af662ae627d53df"
+  "h": "29182af662ae627d53df",
+  "tx": 1793761602756,
+  "bm": {
+   "e": 149.61,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793311200000
+  },
+  "bi": {
+   "e": 149.61,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793192400000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|LINK",
@@ -10624,13 +10688,26 @@
   "keyakinan": "",
   "alasan": "deviasi bawah lalu recovery",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 290,
   "prev": "a2dca02a735f1d865646",
-  "h": "4bb2c051d90822c67399"
+  "h": "4bb2c051d90822c67399",
+  "tx": 1793761602756,
+  "bm": {
+   "e": 0.031,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793159760000
+  },
+  "bi": {
+   "e": 0.031,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793185200000
+  }
  },
  {
   "id": "2026-10-30|Aturan Eliz|TRX",
@@ -13144,13 +13221,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, OBV divergence",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 399,
   "prev": "508e84619ea4c17d1b18",
-  "h": "7b08520218abc9724200"
+  "h": "7b08520218abc9724200",
+  "tx": 1793768400000,
+  "bm": {
+   "e": 0.1702,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793768400000
+  },
+  "bi": {
+   "e": 0.1702,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793764800000
+  }
  },
  {
   "id": "2026-11-04|Aturan Eliz|LINK",
