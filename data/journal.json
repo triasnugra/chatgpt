@@ -17734,7 +17734,19 @@
   "seq": 544,
   "prev": "fb7b3660ee67f8e590cf",
   "h": "06b81eb01dc2af427c38",
-  "tx": 1794488400000
+  "tx": 1794488400000,
+  "bm": {
+   "e": 0.1733,
+   "h": "SL",
+   "R": -1,
+   "tx": 1794492000000
+  },
+  "bi": {
+   "e": 0.1733,
+   "h": "TP",
+   "R": 2,
+   "tx": 1794621600000
+  }
  },
  {
   "id": "2026-11-12|Aturan Eliz|ARB",
@@ -18172,5 +18184,28 @@
   "seq": 563,
   "prev": "3927fc4d28da4e9981d7",
   "h": "85ab04ec305c815ee585"
+ },
+ {
+  "id": "2026-11-14|Aturan Eliz|BERA",
+  "waktu": "2026-11-14 04:52 UTC",
+  "t": 1794631943390,
+  "due": 1795236743390,
+  "agen": "Aturan Eliz",
+  "aset": "BERA",
+  "arah": "LONG",
+  "entry": 0.1008,
+  "sl": 0.096018,
+  "tp": 0.11036,
+  "harga_awal": 0.1147,
+  "keyakinan": "",
+  "alasan": "deviasi bawah lalu recovery, sweep Monday Low lalu reclaim | FILTER: Target sudah tercapai sebelum entry; setup basi, jangan diterbitkan",
+  "alert": "",
+  "hasil": "NO_TRADE",
+  "R": "",
+  "engine": "dcfc14e83216c90f",
+  "fwd": 1,
+  "seq": 564,
+  "prev": "85ab04ec305c815ee585",
+  "h": "a2f5a138238322f3aeba"
  }
 ]
