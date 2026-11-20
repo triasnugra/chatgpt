@@ -19599,7 +19599,19 @@
   "seq": 608,
   "prev": "6f2b70ad81c8ef878ead",
   "h": "6421e59ebdd0113e8f01",
-  "tx": 1795186800000
+  "tx": 1795186800000,
+  "bm": {
+   "e": 726.06,
+   "h": "TP",
+   "R": 2,
+   "tx": 1795204800000
+  },
+  "bi": {
+   "e": 726.06,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795172400000
+  }
  },
  {
   "id": "2026-11-18|Aturan Eliz|ADA",
@@ -19863,13 +19875,14 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, breakdown ber-close, retest, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 618,
   "prev": "72d7a97217961935e9bc",
-  "h": "f699e39e6a309c8cf9b2"
+  "h": "f699e39e6a309c8cf9b2",
+  "tx": 1795201200000
  },
  {
   "id": "2026-11-19|Aturan Eliz|SKHYB",
@@ -20524,13 +20537,26 @@
   "keyakinan": "",
   "alasan": "Three Tap: 2 sentuhan lalu manipulasi di bawah, RSI divergence",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 645,
   "prev": "33ef30c98094a6929216",
-  "h": "9f20a65329e50e4e0e4f"
+  "h": "9f20a65329e50e4e0e4f",
+  "tx": 1795204800000,
+  "bm": {
+   "e": 273.65,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795204800000
+  },
+  "bi": {
+   "e": 273.65,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795183200000
+  }
  },
  {
   "id": "2026-11-20|Aturan Eliz|ADA",
@@ -20675,12 +20701,25 @@
   "keyakinan": "",
   "alasan": "breakdown ber-close, retest, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 651,
   "prev": "f584b6c7085917170fa3",
-  "h": "3b4216aef43f52faf767"
+  "h": "3b4216aef43f52faf767",
+  "tx": 1795194660000,
+  "bm": {
+   "e": 62562.89,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795194000000
+  },
+  "bi": {
+   "e": 62562.89,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795186800000
+  }
  }
 ]
