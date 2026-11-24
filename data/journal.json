@@ -20613,13 +20613,14 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 640,
   "prev": "dce43dbc5a923fb06f36",
-  "h": "663d526fab0e9380be01"
+  "h": "663d526fab0e9380be01",
+  "tx": 1795532400000
  },
  {
   "id": "2026-11-20|Aturan Eliz|MUB",
@@ -20895,13 +20896,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 650,
   "prev": "e40139e0a88e5d832c97",
-  "h": "f584b6c7085917170fa3"
+  "h": "f584b6c7085917170fa3",
+  "tx": 1795525200000,
+  "bm": {
+   "e": 9.016,
+   "h": "TP",
+   "R": 2,
+   "tx": 1795186800000
+  },
+  "bi": {
+   "e": 9.016,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795176000000
+  }
  },
  {
   "id": "2026-11-20|Aturan Eliz|WBTC",
