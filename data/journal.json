@@ -20696,7 +20696,19 @@
   "seq": 640,
   "prev": "dce43dbc5a923fb06f36",
   "h": "663d526fab0e9380be01",
-  "tx": 1795532400000
+  "tx": 1795532400000,
+  "bm": {
+   "e": 136.94,
+   "h": "TP",
+   "R": 2,
+   "tx": 1795597200000
+  },
+  "bi": {
+   "e": 136.94,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795179600000
+  }
  },
  {
   "id": "2026-11-20|Aturan Eliz|MUB",
@@ -22851,13 +22863,14 @@
   "keyakinan": "",
   "alasan": "deviasi bawah lalu recovery, RSI divergence",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 730,
   "prev": "ecc3ec462eb687f8dc4f",
-  "h": "0dcbc3b1ce4797b8ee36"
+  "h": "0dcbc3b1ce4797b8ee36",
+  "tx": 1795611600000
  },
  {
   "id": "2026-11-24|Aturan Eliz|GOOGLB",
@@ -23035,13 +23048,14 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah, deviasi bawah lalu recovery",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 738,
   "prev": "cb066a109bb264a3b1e7",
-  "h": "112f4efc73fd6376f211"
+  "h": "112f4efc73fd6376f211",
+  "tx": 1795611600000
  },
  {
   "id": "2026-11-25|Aturan Eliz|NEAR",
@@ -23219,13 +23233,14 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah, sweep Monday Low lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 746,
   "prev": "44a83216b97669c54951",
-  "h": "1abf162285f75bfedd3a"
+  "h": "1abf162285f75bfedd3a",
+  "tx": 1795604400000
  },
  {
   "id": "2026-11-25|Aturan Eliz|LINK",
@@ -23288,13 +23303,14 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah, deviasi bawah lalu recovery",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 749,
   "prev": "28fb5e5301e17806b958",
-  "h": "c3d548aab50fac21c4d8"
+  "h": "c3d548aab50fac21c4d8",
+  "tx": 1795590000000
  },
  {
   "id": "2026-11-25|Aturan Eliz|LISTA",
@@ -23357,13 +23373,14 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah, deviasi bawah lalu recovery",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 752,
   "prev": "0d728d9762d4e3f8ea3c",
-  "h": "0dbe39c336b43aefbf3d"
+  "h": "0dbe39c336b43aefbf3d",
+  "tx": 1795611600000
  },
  {
   "id": "2026-11-25|Aturan Eliz|LTC",
@@ -23403,13 +23420,14 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah, sweep Monday Low lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 754,
   "prev": "32c4295758c0d3fafb2f",
-  "h": "0cc3bd25d3929af66373"
+  "h": "0cc3bd25d3929af66373",
+  "tx": 1795611600000
  },
  {
   "id": "2026-11-25|Aturan Eliz|QQQB",
