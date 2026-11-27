@@ -21855,13 +21855,26 @@
   "keyakinan": "",
   "alasan": "deviasi bawah lalu recovery, sweep Monday Low lalu reclaim",
   "alert": "Menjelang penutupan weekly (Senin 00:00 UTC).",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 680,
   "prev": "4617685d0f9063b0b9e7",
-  "h": "e0c8e172712b39d0feff"
+  "h": "e0c8e172712b39d0feff",
+  "tx": 1795748400000,
+  "bm": {
+   "e": 70.41,
+   "h": "TP",
+   "R": 2,
+   "tx": 1795438800000
+  },
+  "bi": {
+   "e": 70.41,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795438800000
+  }
  },
  {
   "id": "2026-11-22|Aturan Eliz|NEAR",
@@ -22443,13 +22456,26 @@
   "keyakinan": "",
   "alasan": "deviasi bawah lalu recovery, sweep Monday Low lalu reclaim",
   "alert": "Senin: Monday range sedang terbentuk, harga cenderung kotor. Tunggu. Monday Low/High jadi level kunci minggu ini.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 705,
   "prev": "2fe9b04f459c0c1fbcb7",
-  "h": "8ec04b3269bab4e43a2e"
+  "h": "8ec04b3269bab4e43a2e",
+  "tx": 1795748400000,
+  "bm": {
+   "e": 71.33,
+   "h": "TP",
+   "R": 2,
+   "tx": 1795442400000
+  },
+  "bi": {
+   "e": 71.33,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795438800000
+  }
  },
  {
   "id": "2026-11-23|Aturan Eliz|ZEC",
@@ -23262,13 +23288,14 @@
   "keyakinan": "",
   "alasan": "deviasi bawah lalu recovery, sweep Monday Low lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 740,
   "prev": "de252490b953fb1cf71f",
-  "h": "64b534bb7e93f70d26ee"
+  "h": "64b534bb7e93f70d26ee",
+  "tx": 1795755600000
  },
  {
   "id": "2026-11-25|Aturan Eliz|WBTC",
@@ -23620,7 +23647,19 @@
   "seq": 753,
   "prev": "0dbe39c336b43aefbf3d",
   "h": "32c4295758c0d3fafb2f",
-  "tx": 1795658400000
+  "tx": 1795658400000,
+  "bm": {
+   "e": 40.43,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795633200000
+  },
+  "bi": {
+   "e": 40.43,
+   "h": "TP",
+   "R": 2,
+   "tx": 1795755600000
+  }
  },
  {
   "id": "2026-11-25|Aturan Eliz|AVAX",
