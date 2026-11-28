@@ -21487,13 +21487,26 @@
   "keyakinan": "",
   "alasan": "breakdown ber-close, retest, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "kedaluwarsa",
+  "R": -0.12,
   "engine": "dcfc14e83216c90f",
   "fwd": 1,
   "seq": 664,
   "prev": "29a95d6a34987e766246",
-  "h": "4f3633fafc381988d782"
+  "h": "4f3633fafc381988d782",
+  "tx": 1795838796625,
+  "bm": {
+   "e": 266.88,
+   "h": "kedaluwarsa",
+   "R": -0.364,
+   "tx": 1795838796625
+  },
+  "bi": {
+   "e": 266.88,
+   "h": "kedaluwarsa",
+   "R": 0.364,
+   "tx": 1795838796625
+  }
  },
  {
   "id": "2026-11-21|Aturan Eliz|SPCXB",
